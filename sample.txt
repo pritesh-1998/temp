@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 yo yo buddy i am pritesh hoew are you 
+=======
+pritesh here it is my sample learning git hub file
+>>>>>>> b809fae4130b3bb6834ef7ef5216cfad75ea796c
